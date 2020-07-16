@@ -1,0 +1,97 @@
+body {
+    background: gray;
+    color: #fff;
+    background-size: cover;
+    padding: 50px 20px;
+}
+
+.info input[name="number"] {
+    padding: 10em;
+    border: 0;
+    width: 320px;
+    margin-right: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    padding: 12px 20px 13px 20px;
+    box-sizing: border-box;
+}
+
+.info input[name="name"] {
+    padding: 10px;
+    border: 0;
+    width: 320px;
+    margin-right: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1em;
+    padding: 12px 20px 13px 20px;
+    box-sizing: border-box;
+}
+
+.info input[name="send"] {
+    background: #ae2c52;
+    border: 0;
+    color: white;
+    font-size: 1.25em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    padding: 10px 35px;
+    cursor: pointer;
+}
+
+.info input[name="information"] {
+    background: #ae2c52;
+    border: 0;
+    color: white;
+    font-size: 1.25em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin: 20px 0px 0px 0px;
+    padding: 10px 35px;
+    cursor: pointer;
+    width: 464px;
+}
+
+.new {
+    font-family: 'Open Sans';
+    font-weight: 700;
+    padding-bottom: 35px;
+}
+
+caption {
+    caption-side: top;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 1.25em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+table {
+    border: 10px solid #4E4848;
+}
+
+th {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    color: black;
+}
+
+td {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px;
+    color: black;
+}
+
+tr {
+    background: #E5E8F0;
+}
+
+label {
+    margin-right: 20px;
+}
+.elas li.hide{
+    display: none;
+}
+	
+	
